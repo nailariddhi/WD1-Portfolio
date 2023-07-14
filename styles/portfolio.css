@@ -146,7 +146,7 @@ nav a{
     font-weight: 700;
 }
 
-.rusume-container{
+.resume-container{
     display: flex;
     gap: 50px;
 }
@@ -169,7 +169,11 @@ nav a{
 
 .resume-container{
     margin: 30px ;
-    margin: 50px;
-
+    margin: 50px;   
 }
+
+.download-cv{
+    text-align: center;
+    margin-top: 50px;
+} 
 

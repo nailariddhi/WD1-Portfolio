@@ -145,3 +145,31 @@ nav a{
     font-size: 30px;
     font-weight: 700;
 }
+
+.rusume-container{
+    display: flex;
+    gap: 50px;
+}
+
+.resume-item-title{
+    color: #474747;
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.resume-item-institute{
+    margin-bottom: 20px;
+    margin-top: 0px; 
+}
+
+.resume-item-description, .resume-item-institute{
+    color: #757575;
+}
+
+.resume-container{
+    margin: 30px ;
+    margin: 50px;
+
+}
+
